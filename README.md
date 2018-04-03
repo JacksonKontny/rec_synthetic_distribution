@@ -1,4 +1,4 @@
-# Project Title
+# Synthetic Protected Group Creation and Analysis
 
 This is a repository of ad-hoc scripts produced as part of a research project
 investigating how to create synthetic data for fairness aware recommender
